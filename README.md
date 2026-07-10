@@ -26,9 +26,15 @@
 - **[pinpointpro](https://github.com/suliatmayowaogungbe-glitch/pinpointpro)** (fork)
   Where I made my first open-source PR  a docs update, and got added to the project's contributors list.
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=suliatmayowaogungbe-glitch&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=suliatmayowaogungbe-glitch&layout=compact&theme=radical" alt="Top Languages" />
+
 </p>
+
+ ### ✍️ Blog Posts & Hands-On Labs
+I write step-by-step Azure walkthroughs on dev.to as I work through real-world cloud scenarios:
+
+- 📦 [Providing Storage for the IT Testing and Training Department](https://dev.to/smayowa10/providing-storage-for-the-it-testing-and-training-department-a-step-by-step-guide-4o99)
+- 🌐 [How to Setup Storage for a Public Website](https://dev.to/smayowa10/how-to-setup-storage-for-a-public-website-4ch6)
+- 🖥️ [Deploying Azure Virtual Machines: The GUI Way](https://dev.to/smayowa10/deploying-azure-virtual-machines-the-gui-way-a-step-by-step-guide-56ki)
+- 🔒 [Setting Up Private Storage for Internal Company Documents](https://dev.to/smayowa10/setting-up-private-storage-for-internal-company-documents-3ejb)
+- 🌍 [Configuring Shared File Storage for a Geographically Dispersed Company Using Azure](https://dev.to/smayowa10/configuring-shared-file-storage-for-a-geographically-dispersed-company-using-azure-463g)
+- 🛡️ [How to Secure Azure Files and Blob Storage Using Managed Identities](https://dev.to/smayowa10/how-to-secure-azure-files-and-blob-storage-using-managed-identities-1iaf)
