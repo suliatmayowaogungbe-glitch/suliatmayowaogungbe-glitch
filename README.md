@@ -1,6 +1,9 @@
-<!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Suliat Mayowa Ogungbe</h1>
-<h3 align="center">A passionate Cloud & DevOps Engineer from Saskatoon, Canada</h3>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=Suliat%20Mayowa%20Ogungbe&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer&descAlignY=58"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Studying+for+AZ-104+(Azure+Administrator);Building+the+SafeReach+Project;Cloud+Infrastructure+%7C+Automation+%7C+Security;Tech+Stack%3A+Azure+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD" />
+</div>
+
+<br>
 
 <!-- Intro/Bio -->
 - 🔭 I'm currently working on **Git and GitHub workflow projects**
@@ -15,6 +18,15 @@
   <img src="https://skillicons.dev/icons?i=azure,linux,bash,git,github,vscode,docker,kubernetes,terraform,python" />
 </p>
 
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=suliatmayowaogungbe-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suliatmayowaogungbe-glitch&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suliatmayowaogungbe-glitch&theme=tokyonight&hide_border=true" />
+</div>
+
 ### 📂 Featured Projects
 
 - **[notification-workflow-demo](https://github.com/suliatmayowaogungbe-glitch/notification-workflow-demo)**
@@ -25,9 +37,6 @@
 
 - **[pinpointpro](https://github.com/suliatmayowaogungbe-glitch/pinpointpro)** (fork)
   Where I made my first open-source PR  a docs update, and got added to the project's contributors list.
-
-
-</p>
 
  ### ✍️ Blog Posts & Hands-On Labs
 I write step-by-step Azure walkthroughs on dev.to as I work through real-world cloud scenarios:
