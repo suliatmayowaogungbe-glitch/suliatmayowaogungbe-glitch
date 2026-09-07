@@ -29,6 +29,11 @@
 
 ### 📂 Featured Projects
 
+- **[SafeReach](https://github.com/suliatmayowaogungbe-glitch/safereach)**
+  **Missing & Vulnerable Persons Response Platform.** Turns scattered, unverified reports — social posts, tips, sightings — into a single structured, human-verified case that families, the public, and law enforcement can act on. Every state change (case verification, sighting review, resolution) runs through server-side Cloud Functions, never a direct client write; AI assists moderators with sighting summaries but never decides on its own.
+  - **Tech Stack**: `Next.js`, `React`, `TypeScript`, `Firebase (Auth, Firestore, Cloud Functions)`, `Gemini AI`, `Cloudflare Pages`
+  - **Live demo**: https://safereach-web.suliatmayowaogungbe.workers.dev
+
 - **[notification-workflow-demo](https://github.com/suliatmayowaogungbe-glitch/notification-workflow-demo)**
   A Git/GitHub workflow lab: feature branches, PRs, code review, squash merges, and a GitHub Actions pipeline that runs on every push to main.
 
