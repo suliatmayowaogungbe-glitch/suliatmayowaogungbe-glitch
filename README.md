@@ -15,7 +15,7 @@
 <!-- Tech Stack (Using DevIcons) -->
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,linux,bash,git,github,vscode,docker,kubernetes,terraform,python" />
+  <img src="https://skillicons.dev/icons?i=azure,linux,bash,git,github,vscode,docker,kubernetes,terraform,python,nextjs,react,ts,tailwind,firebase,cloudflare" />
 </p>
 
 <div align="center">
