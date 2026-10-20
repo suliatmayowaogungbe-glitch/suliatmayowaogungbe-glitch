@@ -6,94 +6,136 @@
 
 </div>
 
-# 👋 About Me
+## 👋 About Me
 
-I'm **Suliat Mayowa Ogungbe**, an aspiring Cloud & DevOps Engineer who enjoys building with containers, automating workflows, and learning Microsoft Azure in public.
+I'm an **aspiring Cloud & DevOps Engineer** who enjoys building with containers, automating workflows, and learning **Microsoft Azure** in public.
 
 I like turning hands-on labs into step-by-step guides, contributing to open source, and helping other beginners get comfortable with real-world cloud scenarios.
 
-## Current Focus
+### Current Focus
 
 - 🔭 **Working on:** Git and GitHub workflow projects
 - 🌱 **Understand now:** Kubernetes, Bash scripting, and Microsoft Azure (AZ-104 concepts)
 - 💬 **Ask me about:** Docker, Linux, Git workflows, and Azure fundamentals
 - 📫 **Reach me:** suliatmayowaogungbe@gmail.com
 
-## Highlights
+## Career Impact Highlights
 
-- **Open Source:** Made my first open-source PR (a docs update) to [pinpointpro](https://github.com/raphgm/pinpointpro) and was added to the project's contributors list.
+- **Open Source:** Made my first open-source PR (a docs update) to **pinpointpro** and was added to the project's contributors list.
 - **Git & Automation:** Practiced feature branches, PRs, code review, squash merges, and a GitHub Actions pipeline that runs on every push to `main`.
 - **Technical Writing:** Publishing step-by-step Azure walkthroughs on dev.to based on real-world scenarios.
-- **Product Build:** Shipped SafeReach, a live full-stack platform with server-side Cloud Functions and AI-assisted moderation.
+- **Product Build:** Shipped **SafeReach**, a live full-stack platform with server-side Cloud Functions and AI-assisted moderation.
 
 ## Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suliatmayowaogungbe@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suliat-ogungbe)
-[![dev.to](https://img.shields.io/badge/dev.to-Read-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/smayowa10)
+<div align="center">
+
+<a href="https://github.com/suliatmayowaogungbe-glitch"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
+<a href="https://www.linkedin.com/in/suliat-ogungbe"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+<a href="https://dev.to/smayowa10"><img src="https://skillicons.dev/icons?i=devto" height="45" /></a>
+<a href="mailto:suliatmayowaogungbe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
+
+</div>
 
 ## Cloud & DevOps Stack
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,bash,git,github,githubactions,nodejs,nextjs,ts,firebase&perline=12" />
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### SafeReach
-**Missing & Vulnerable Persons Response Platform**
-Turns scattered, unverified reports (social posts, tips, sightings) into a single structured, human-verified case that families, the public, and law enforcement can act on. Every state change runs through server-side Cloud Functions, never a direct client write. AI assists moderators with sighting summaries but never decides on its own.
-`Tech Stack:` Next.js, React, TypeScript, Firebase (Auth, Firestore, Cloud Functions), Gemini AI, Cloudflare Pages
-🔗 [Live demo](https://safereach-web.suliatmayowaogungbe.workers.dev)
+### [SafeReach](https://safereach-web.suliatmayowaogungbe.workers.dev)
+
+> **Missing & Vulnerable Persons Response Platform** Turns scattered, unverified reports (social posts, tips, sightings) into a single structured, human-verified case that families, the public, and law enforcement can act on. Every state change runs through server-side Cloud Functions, never a direct client write. AI assists moderators with sighting summaries but never decides on its own.
+
+- **Tech Stack:** `Next.js`, `React`, `TypeScript`, `Firebase`, `Cloud Functions`, `Gemini AI`, `Cloudflare Pages`
+
+---
 
 ### [notification-workflow-demo](https://github.com/suliatmayowaogungbe-glitch/notification-workflow-demo)
-**Git & GitHub workflow lab**
-Feature branches, PRs, code review, squash merges, and a GitHub Actions pipeline that runs on every push to `main`.
-`Tech Stack:` Git, GitHub, GitHub Actions
+
+> **Git & GitHub workflow lab** Feature branches, PRs, code review, squash merges, and a GitHub Actions pipeline that runs on every push to `main`.
+
+- **Tech Stack:** `Git`, `GitHub`, `GitHub Actions`
+
+---
 
 ### [devops-lab](https://github.com/suliatmayowaogungbe-glitch/devops-lab)
-**Dockerized Node.js app with Makefile automation**
-My first pass at automating a container workflow end to end.
-`Tech Stack:` Docker, Node.js, Makefile
 
-### [pinpointpro](https://github.com/raphgm/pinpointpro) (fork)
-**Open-source contribution**
-Where I made my first open-source PR, a docs update, and got added to the project's contributors list.
-`Tech Stack:` Open Source, TypeScript, Git
+> **Dockerized Node.js app with Makefile automation** My first pass at automating a container workflow end to end.
+
+- **Tech Stack:** `Docker`, `Node.js`, `Makefile`
 
 ---
 
-## ✍️ Technical Writing & Hands-On Labs
+### [pinpointpro](https://github.com/raphgm/pinpointpro)
 
-I write step-by-step Azure walkthroughs on dev.to as I work through real-world cloud scenarios:
+> **Open-source contribution** Where I made my first open-source PR, a docs update, and got added to the project's contributors list.
 
-- 📦 Providing Storage for the IT Testing and Training Department
-- 🌐 How to Setup Storage for a Public Website
-- 🖥️ Deploying Azure Virtual Machines: The GUI Way
-- 🔒 Setting Up Private Storage for Internal Company Documents
-- 🌍 Configuring Shared File Storage for a Geographically Dispersed Company Using Azure
-- 🛡️ How to Secure Azure Files and Blob Storage Using Managed Identities
-
-More articles: [dev.to/smayowa10](https://dev.to/smayowa10)
+- **Tech Stack:** `Open Source`, `TypeScript`, `Git`
 
 ---
 
-## 📊 GitHub Stats
+## Technical Writing
 
-![Profile Views](https://komarev.com/ghpvc/?username=suliatmayowaogungbe-glitch&style=flat-square)
-![Followers](https://img.shields.io/github/followers/suliatmayowaogungbe-glitch?style=flat-square)
+### Providing Storage for the IT Testing and Training Department
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suliatmayowaogungbe-glitch&show_icons=true&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suliatmayowaogungbe-glitch&layout=compact&hide_border=true" />
+> **Azure Storage walkthrough** Step-by-step setup of storage for a testing and training department.
+
+- **Tech Stack:** `Azure`, `Storage Accounts`
+
+---
+
+### How to Setup Storage for a Public Website
+
+> **Public website storage on Azure** Configuring storage so a public website can serve its content.
+
+- **Tech Stack:** `Azure`, `Blob Storage`
+
+---
+
+### Deploying Azure Virtual Machines: The GUI Way
+
+> **VM deployment walkthrough** Deploying Azure virtual machines step by step through the portal.
+
+- **Tech Stack:** `Azure`, `Virtual Machines`
+
+---
+
+### Setting Up Private Storage for Internal Company Documents
+
+> **Private storage on Azure** Locking down storage for internal company documents.
+
+- **Tech Stack:** `Azure`, `Storage`, `Access Control`
+
+---
+
+### Configuring Shared File Storage for a Geographically Dispersed Company Using Azure
+
+> **Shared file storage for distributed teams** Setting up shared file storage for a company with teams in different locations.
+
+- **Tech Stack:** `Azure Files`, `Storage`
+
+---
+
+### How to Secure Azure Files and Blob Storage Using Managed Identities
+
+> **Securing storage with managed identities** Protecting Azure Files and Blob Storage using managed identities.
+
+- **Tech Stack:** `Azure`, `Managed Identities`, `Security`
+
+---
+
+**More articles:** [dev.to/smayowa10](https://dev.to/smayowa10)
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=suliatmayowaogungbe-glitch&style=for-the-badge&color=blue)
+![Followers](https://img.shields.io/github/followers/suliatmayowaogungbe-glitch?style=for-the-badge)
 
 *Learning in public, building real projects, and growing into cloud engineering one lab at a time.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=120&section=footer"/>
+
+</div>
