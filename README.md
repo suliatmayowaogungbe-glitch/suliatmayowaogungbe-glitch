@@ -131,7 +131,6 @@ I like turning hands-on labs into step-by-step guides, contributing to open sour
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=suliatmayowaogungbe-glitch&style=for-the-badge&color=blue)
 ![Followers](https://img.shields.io/github/followers/suliatmayowaogungbe-glitch?style=for-the-badge)
 
 *Learning in public, building real projects, and growing into cloud engineering one lab at a time.*
