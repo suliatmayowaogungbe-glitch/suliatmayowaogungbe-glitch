@@ -1,3 +1,11 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=Suliat%20Mayowa%20Ogungbe&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20%7C%20DevOps%20Engineer%20%7C%20Azure%20%7C%20Docker%20%7C%20Open%20Source&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Aspiring+Cloud+%26+DevOps+Engineer;Microsoft+Azure+%7C+AZ-104+Concepts;Docker+%7C+Linux+%7C+Git+Workflows;Open+Source+Contributor;Azure+Technical+Writer+on+dev.to;Builder+of+SafeReach" />
+
+</div>
+
 # 👋 About Me
 
 I'm **Suliat Mayowa Ogungbe**, an aspiring Cloud & DevOps Engineer who enjoys building with containers, automating workflows, and learning Microsoft Azure in public.
@@ -21,8 +29,8 @@ I like turning hands-on labs into step-by-step guides, contributing to open sour
 ## Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suliatmayowaogungbe@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![dev.to](https://img.shields.io/badge/dev.to-Read-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR-DEVTO-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suliat-ogungbe)
+[![dev.to](https://img.shields.io/badge/dev.to-Read-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/smayowa10)
 
 ## Cloud & DevOps Stack
 
@@ -76,7 +84,7 @@ I write step-by-step Azure walkthroughs on dev.to as I work through real-world c
 - 🌍 Configuring Shared File Storage for a Geographically Dispersed Company Using Azure
 - 🛡️ How to Secure Azure Files and Blob Storage Using Managed Identities
 
-More articles: [dev.to/YOUR-DEVTO-HANDLE](https://dev.to/YOUR-DEVTO-HANDLE)
+More articles: [dev.to/smayowa10](https://dev.to/smayowa10)
 
 ---
 
